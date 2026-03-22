@@ -1,4 +1,4 @@
-# Aman's Skills
+# Sahil's Skills
 
 My Claude Code setup — plugins, skills, and the config that ties them together.
 
